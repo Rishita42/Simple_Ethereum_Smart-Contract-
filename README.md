@@ -1,1 +1,1 @@
-# Simple_Ethereum_Smart-Contract-
+# Simple_Ethereum_Smart_Contract
